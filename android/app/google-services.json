@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274998705127",
+    "project_id": "guliva-app",
+    "storage_bucket": "guliva-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274998705127:android:be5fdc6fb1d0993d225b42",
+        "android_client_info": {
+          "package_name": "com.example.guliva_interview_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1dWu02hN0lfGYzSSvcNMpTPwQTrwopg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
